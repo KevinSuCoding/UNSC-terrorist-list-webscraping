@@ -1,4 +1,5 @@
 **Web Scraping**
-UNSC Consolidated List contains data of known and unknown global terrorists flagged by the UNSC 
+UNSC Consolidated List contains data on known and unknown potential global threats individuals flagged by the UNSC 
 
-XML webscraping
+XML web scraping.
+
